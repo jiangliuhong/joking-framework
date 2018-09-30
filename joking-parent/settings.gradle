@@ -1,3 +1,4 @@
 rootProject.name = 'joking-parent'
 includeFlat 'joking-beans'
+includeFlat 'joking-core'
 
