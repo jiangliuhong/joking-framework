@@ -1,0 +1,3 @@
+rootProject.name = 'joking-parent'
+includeFlat 'joking-beans'
+
